@@ -1,0 +1,19 @@
+[ 2017-07-06T23:41:53+08:00 ] 192.168.1.1 /index.php/Home/Ind
+ERR: 无法加载控制器:Ind
+
+[ 2017-07-06T23:42:14+08:00 ] 192.168.1.1 /index.php/Home/Ind
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Ind
+
+[ 2017-07-06T23:42:23+08:00 ] 192.168.1.1 /index.php/Home/Ind
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-06T23:58:11+08:00 ] 192.168.1.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+

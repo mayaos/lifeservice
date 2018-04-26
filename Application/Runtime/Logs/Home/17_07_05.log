@@ -1,0 +1,10 @@
+[ 2017-07-05T21:57:06+08:00 ] 192.168.1.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+
+[ 2017-07-05T22:04:32+08:00 ] 192.168.1.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
